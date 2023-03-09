@@ -1,4 +1,4 @@
-(defproject com.github.strojure/integrant-async "1.0.1-04"
+(defproject com.github.strojure/integrant-async "1.0.1-05-SNAPSHOT"
   :description "Utility library for the `integrant` to init/halt system keys in parallel."
   :url "https://github.com/strojure/integrant-async"
   :license {:name "The Unlicense" :url "https://unlicense.org"}
