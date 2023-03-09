@@ -12,7 +12,7 @@ Release date `UNRELEASED`
 
 ## `1.0.1-04`
 
-Release date `UNRELEASED`
+Release date `2023-03-09`
 
 - (chore): Change license to Unlicense.
 
